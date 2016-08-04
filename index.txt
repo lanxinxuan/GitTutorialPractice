@@ -1,0 +1,238 @@
+<!--Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>张国荣</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.0.min.js"></script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<!-- Custom Theme files -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="张国荣是大中华地区最伟大的天皇巨星之一" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="张国荣，哥哥，霸王别姬，程蝶衣，玻璃之情，枪王之王，左右手，当爱已成往事，英雄本色，当年情" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--script-->
+<script src="js/menu_jquery.js"></script>
+</head>
+<body>
+<!--banner start here-->
+<div class="banner">
+  <div class="header">
+	<div class="container">
+		 <div class="header-main">
+				<div class="logo">
+					<h1><a href="index.html">Leslie</a></h1>
+				</div>
+				<div class="header-right">
+					<div class="head-top">
+					<div class="top-nav-right">
+						<div id="loginContainer"><a href="#" id="loginButton"><span>登陆</span></a>
+							    <div id="loginBox">                
+							        <form id="loginForm">
+							                <fieldset id="body">
+							                	<fieldset>
+							                          <label for="email">邮箱</label>
+							                          <input type="text" id="email">
+							                    </fieldset>
+							                    <fieldset>
+							                            <label for="password">密码</label>
+							                            <input type="password" id="password">
+							                     </fieldset>
+							                    <input type="submit" id="login" value="注册">
+							                	<label for="checkbox"><input type="checkbox" id="checkbox"> <i>记住密码</i></label>
+							            	</fieldset>
+							            <span><a href="#">忘记密码?</a></span>
+								 </form>
+					        </div>
+					</div>
+			         <div class="clearfix"> </div>
+				   </div>
+				   <div class="ph-numb"><h4>荣迷群：45976622</h4></div>
+				 </div>
+				 <div class="top-nav">
+					<span class="menu"> <img src="images/icon.png" alt=""/></span>
+					<ul class="res" >
+					    <li><a href="index.html" class="active hvr-sweep-to-bottom">首页</a></li> 
+						<li><a class="hvr-sweep-to-bottom" href="about.html">音乐</a></li>  
+						<li><a class="hvr-sweep-to-bottom" href="typo.html">电影</a></li>
+						<li><a class="hvr-sweep-to-bottom" href="gallery.html">其他</a></li> 
+						<li><a class="hvr-sweep-to-bottom" href="contact.html">推荐</a></li> 
+					 </ul>
+                        <div class="clearfix"> </div>
+					<!-- script-for-menu -->
+						 <script>
+						   $( "span.menu" ).click(function() {
+							 $( "ul.res" ).slideToggle( 300, function() {
+							 // Animation complete.
+							  });
+							 });
+						</script>
+		        <!-- /script-for-menu -->
+				</div>
+		    </div>
+		 <div class="clearfix"> </div>
+	  </div>
+		 <div class="banner-bottom">
+		 	<h3>张国荣是大中华地区最伟大的天皇巨星之一</h3>
+		 	<a href="index1.html" target="_blank" class="hvr-sweep-to-right">了解更多</a>
+		 </div>
+	 </div>
+ </div>
+</div>
+<!--banner start here-->
+<!--banner strip here-->
+<div class="ban-strip">
+	<div class="container">
+		<div class="banstrip-main">
+			   <div class="col-md-4 ban-strip-grid">
+			   	  <div class="col-md-4 bann-strip-img">
+			   	  	 <span class="glyphicon glyphicon-plane" aria-hidden="true"> </span>
+			   	  </div>
+			   	  <div class="col-md-8 bann-strip-text">
+			   	  	  <h4><a href="index2.html" target="_blank">基本信息</h4>
+			   	  	  <p>Essential Information</p>
+			   	  </div>
+			   	<div class="clearfix"> </div>
+			   </div>
+			   <div class="col-md-4 ban-strip-grid">
+			   	  <div class="col-md-4 bann-strip-img">
+			   	  	 <span class="glyphicon glyphicon-cloud" aria-hidden="true"> </span>
+			   	  </div>
+			   	  <div class="col-md-8 bann-strip-text">
+			   	  	  <h4><a href="#" >演艺经历</h4>
+			   	  	  <p>the Career of performance</p>
+			   	  </div>
+			   	<div class="clearfix"> </div>
+			   </div>
+			   <div class="col-md-4 ban-strip-grid">
+			   	  <div class="col-md-4 bann-strip-img">
+			   	  	 <span class="glyphicon glyphicon-star-empty" aria-hidden="true"> </span>
+			   	  </div>
+			   	  <div class="col-md-8 bann-strip-text">
+			   	  	  <h4><a href="#">个人生活</h4>
+			   	  	  <p>Personal Life</p>
+			   	  </div>
+			   	<div class="clearfix"> </div>
+			   </div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!--banner strip end here-->
+<!--package start here-->
+<div class="package">
+	<div class="container">
+		<div class="package-main">
+			 <div class="pack-top">
+			 	<h3>主要作品</h3>
+			 </div>
+			 <div class="pack-bott">
+			  <div class="col-md-3 package-grid">
+			  	<img src="images/gg6.jpg" alt="" class="img-responsive">
+			  	<h4>音乐</h4>
+			  	<p>微唇一动流连忘返</p>
+			  </div>
+			  <div class="col-md-3 package-grid">
+			  	<img src="images/gg7.jpg" alt="" class="img-responsive">
+			  	<h4>电影</h4>
+			  	<p>戏如人生梦幻重奏</p>
+			  </div>
+			 <div class="col-md-3 package-grid">
+			  	<img src="images/gg8.jpg" alt="" class="img-responsive">
+			  	<h4>电视剧</h4>
+			  	<p>侬本多情即是一生</p>
+			  </div>
+			  <div class="col-md-3 package-grid">
+			  	<img src="images/gg9.jpg" alt="" class="img-responsive">
+			  	<h4>成就</h4>
+			  	<p>荣誉满身信手拈来</p>
+			  </div>
+			<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--package end here-->
+<!--welcome start here-->
+<div class="welcome">
+	<div class="welcome-main">
+		<div class="col-md-6 welcome-left">
+			 <div class="wel-text">
+			   	<h3>社会活动</h3>
+			   	<p>他的这一生，是传奇的一生。从有记录的1978年2月19日，香港公益基金举办筹款卖物会，张国荣客串义卖主持人起，到2003年香港东方文化大酒店24楼坠落，他的轨迹，不止遍布了上个世纪各个角落，还唯美地遗留到现在每个人的心中，寂静的静躺着。</p>
+			 </div>
+		</div>
+		<div class="col-md-6 welcome-right">
+			   	
+		</div>
+	 <div class="clearfix"> </div>
+	</div>
+</div>
+<!--welcome end here-->
+<!--trip grig start here-->
+<div class="trip">
+	<div class="trip-main">
+			   <div class="col-md-6 trip-left">
+			   	  
+			   </div>
+			   <div class="col-md-6 trip-right">
+			   	 <h3>人物评价</h3>
+			   	<p>张国荣是中国流行文化的指标人物之一；影视歌全能亚洲巨星；华人演艺圈多栖发展的代表之一。凭借音乐和电影，他在亚洲获得了很高的人气，他在《霸王别姬》中的表演为他赢得了世界性的声誉（。他是一位成功的歌手、演员、音乐人；演艺圈天赋与勤勉兼具的代表，对华语乐坛和影坛均有很大影响。他在演艺事业上很成功，是一位很有才华和有贡献的艺人。</p>
+			   </div>
+			<div class="clearfix"> </div>
+	</div>
+</div>	
+<!--trip end here-->
+<!--nemo start here-->
+<div class="nemo">
+	<div class="container">
+		<div class="nemo-main">
+			  <div class="col-md-6 nemo-left">
+			  	<h3>纪念活动</h3>
+			  	<h4>他的地位，注定了让人难以忘怀，丝丝入扣，若隐若现，情动一生</h4>
+			  	<p> 自从他离去到现在已经有十三年了，但每年都有很多不同形式的纪念活动让我们想起他。他不曾离去。从粉丝到上世纪香港乐坛的天皇巨星，我们从不认为他已经死去。于是，每年都会有各式各样的悼念活动，特别是四月一日那一天！</p>
+			  </div>
+			  <div class="col-md-6 nemo-left">
+			  	<h3>我这一生</h3>
+			  	<h4>我相信哥哥这一辈子已经足矣，他永远不会独行，我们荣迷至死相伴</h4>
+			  	<p>因为无限思念，所以整合了这样一个网站。或者，无甚其他，只是想在半夜记起，无需网络，本地翻一翻，就可以见到哥哥的模样。我不知，这样，代表着什么，但我希望，作为荣迷的我，尽我最后一份力，留住那份思念，记住那明眸笑脸。</p>
+			  </div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!--nemo end here-->
+<!--footer star here-->
+<div class="footer">
+  <div class="container">
+	  <div class="footer-main">
+		<div class="footer-top">
+			<div class="col-md-3 footer-news">
+			<h5>联系我们</h5>
+			</div>
+			<div class="col-md-9 ftr-email">
+				<form>
+					<input type="text" value="发送邮件" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='发送邮件';}">
+					<input type="submit" value="发送" >
+				</form>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	  <div class="clearfix"> </div>
+		</div>
+		<div class="copyright">
+				<p>@lanxinxuan@foxmail.com. 当我们收到来信我们将会一一回复 <a href="http://w3layouts.com/" target="_blank">|| 谢谢观看 </a></p>
+		</div>
+	</div>
+</div>
+<!--footer end here-->
+
+</body>
+</html>
